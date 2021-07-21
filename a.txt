@@ -1,3 +1,4 @@
 ariel
 ariel2
 new line
+creating a conflict
